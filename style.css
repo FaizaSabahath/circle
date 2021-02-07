@@ -1,0 +1,28 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+body{
+	background-image: url("paint.gif");
+	background-position: center;
+	background-size: cover;
+}
+
+#draw{
+border-width: 5px;
+color: black;
+background-color: rgb(255, 137, 137);
+border-style: ridge;
+}
+span{
+	color: rgb(0, 0, 61);
+}
+#clearbtn{
+	background-color: crimson;
+	color: lightpink;
+}
+#btn{
+    width: 100px;
+	height: 50px;
+}
